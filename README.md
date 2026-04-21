@@ -3,7 +3,8 @@
 **Everything Apple left out of the Finder.**
 Right-click actions, work modes, window shortcuts, keep-awake and cleaning mode — all in one lightweight macOS app.
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/682b2095-e79d-4126-9795-4a9c42dc81af" />
+<img width="1536" height="1024" alt="image png 00-50-47-628" src="https://github.com/user-attachments/assets/ab9daa8d-6802-44c3-9ed7-8ef73188f59c" />
+
 
 
 - ☕ **Do you like MenuMaster2? ** — [Buy me a coffee 😇 !](https://buymeacoffee.com/menumaster2)
