@@ -3,8 +3,8 @@
 **Everything Apple left out of the Finder.**
 Right-click actions, work modes, window shortcuts, keep-awake and cleaning mode — all in one lightweight macOS app.
 
-<img width="1536" height="1024" alt="image png 00-50-47-628" src="https://github.com/user-attachments/assets/c262ec3c-1c11-47bc-9781-4ffe9ab17dff" />
----
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/682b2095-e79d-4126-9795-4a9c42dc81af" />
+
 
 - ☕ **Do you like MenuMaster2? ** — [Buy me a coffee 😇 !](https://buymeacoffee.com/menumaster2)
 
@@ -88,7 +88,8 @@ When you send beta feedback, diagnostic logs are anonymized before upload: file 
 
 MenuMaster2 is built in solo effort by [Victor Tarany](https://github.com/vtarany91).
 
----
+<img width="1536" height="1024" alt="image png 00-50-47-628" src="https://github.com/user-attachments/assets/c04212f8-6c98-4876-a2e8-82217edd0b41" />
+
 
 ## 🇩🇪 Deutsch
 
