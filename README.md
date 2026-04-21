@@ -1,5 +1,3 @@
-# MenuMaster2-release
-Füge deinem Mac Mehr Funktionen hinzu
 # MenuMaster2
 
 **Everything Apple left out of the Finder.**
