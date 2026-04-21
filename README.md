@@ -3,6 +3,7 @@
 **Everything Apple left out of the Finder.**
 Right-click actions, work modes, window shortcuts, keep-awake and cleaning mode — all in one lightweight macOS app.
 
+<img width="1536" height="1024" alt="image png 00-50-47-628" src="https://github.com/user-attachments/assets/c262ec3c-1c11-47bc-9781-4ffe9ab17dff" />
 ---
 
 ## 🇬🇧 English
