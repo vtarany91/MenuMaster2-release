@@ -1,4 +1,4 @@
-# MenuMaster2
+# MenuMaster2 - Beta release
 
 **Everything Apple left out of the Finder.**
 Right-click actions, work modes, window shortcuts, keep-awake and cleaning mode — all in one lightweight macOS app.
