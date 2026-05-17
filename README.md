@@ -82,12 +82,12 @@ When you send beta feedback, diagnostic logs are anonymized before upload: file 
 ### Support
 
 - 🐛 **Bug or feature request** — use in-app feedback (Settings → Beta-Feedback)
-- 📧 **Other questions** — [victor.tarany@icloud.com](mailto:victor.tarany@icloud.com)
+- 📧 **Other questions** — [contact@menumaster2.com](mailto:contact@menumaster2.com)
 - ☕ **Enjoying MenuMaster2?** — [buy me a coffee](https://buymeacoffee.com/menumaster2)
 
 ### Credits
 
-MenuMaster2 is built in solo effort by [Victor Tarany](https://github.com/vtarany91).
+MenuMaster2 is built in solo effort.
 
 <img width="1536" height="1024" alt="image png 00-50-47-628" src="https://github.com/user-attachments/assets/c04212f8-6c98-4876-a2e8-82217edd0b41" />
 
@@ -165,12 +165,12 @@ Beim Senden von Beta-Feedback werden Diagnose-Logs vor dem Upload anonymisiert: 
 ### Support
 
 - 🐛 **Bug oder Feature-Wunsch** — In-App-Feedback nutzen (Einstellungen → Beta-Feedback)
-- 📧 **Andere Fragen** — [victor.tarany@icloud.com](mailto:victor.tarany@icloud.com)
+- 📧 **Andere Fragen** — [contact@menumaster2.com](mailto:contact@menumaster2.com)
 - ☕ **MenuMaster2 gefällt dir?** — [Kaffee spendieren](https://buymeacoffee.com/menumaster2)
 
 ### Credits
 
-MenuMaster2 entsteht in Einzelarbeit von [Victor Tarany](https://github.com/vtarany91).
+MenuMaster2 entsteht in Einzelarbeit!
 
 ---
 
